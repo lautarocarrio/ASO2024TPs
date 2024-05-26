@@ -20,5 +20,5 @@ A:
 ![imagen](https://github.com/lautarocarrio/ASO2024TPs/assets/166873623/fbdc1a71-672a-4a89-ac37-34dc9f12ec1e)
 
 
-Parcial, Punto 11
+Parcial, grupo 11
 https://www.youtube.com/watch?v=P_DDb-fP9GY
