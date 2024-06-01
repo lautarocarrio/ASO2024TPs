@@ -22,3 +22,15 @@ A:
 
 Parcial, grupo 11
 https://www.youtube.com/watch?v=P_DDb-fP9GY
+
+
+Trabajo Practico Nº4: Docker Compose:
+![Captura1](https://github.com/lautarocarrio/ASO2024TPs/assets/166873623/088903cc-f93e-4c93-bd95-6e4c389334ec)
+![Captura2](https://github.com/lautarocarrio/ASO2024TPs/assets/166873623/5b8aa64f-a2e1-43c7-bb88-defbd91fab81)
+
+![Captura3](https://github.com/lautarocarrio/ASO2024TPs/assets/166873623/46c07823-428b-4e69-a4b0-a456b16caa6a)
+
+
+
+
+
